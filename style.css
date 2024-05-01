@@ -17,9 +17,22 @@ body {
 
 header {
   text-align: center;
+  font-size: 20px;
 }
 
 main {
   display: flex;
   justify-content: space-between;
+  border-top: 1px solid #f9f7fe;
+  padding: 30px 0 0 0;
+}
+
+.biography {
+  margin-left: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  border-top: 1px solid #f9f7fe;
+  padding: 30px 0 0 0;
 }
